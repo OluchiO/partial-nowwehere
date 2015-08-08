@@ -2,17 +2,27 @@
     "category": "JavaScript",
     "IDE": [{
         "SublimeText3": "http://www.sublimetext.com/3"
+    }, {
+        "jsfiddle":"http://jsfiddle.net/"
+    }, {
+        "WebStorm": "https://www.jetbrains.com/webstorm/"
     }],
     "about": "JavaScript is a scripting language",
     "materials": [{
         "Eloquent JavaScript": "http://eloquentjavascript.net"
+    }, {
+        "Building A JavaScript Framework": "https://s3.amazonaws.com/dailyjs/files/build-a-javascript-framework.pdf"
+    }, {
+        "JavaScript For Cats":"http://jsforcats.com/"
+    }, {
+        "Javascript Guide":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
     }]
 }, {
     "category": "Python",
     "IDE": [{
         "pyCharm": "https://www.jetbrains.com/pycharm/download/"
     }],
-    "about": "Pyhton is a cool language",
+    "about": "Python is a cool language",
     "materials": [{
         "Bento": "http://iwanttolearnruby.com/"
     }, {
@@ -26,6 +36,10 @@
     "about": "Ruby is a agile language",
     "materials": [{
         "I want to learn Ruby": "http://iwanttolearnruby.com/"
+    },  {
+        "Learn Ruby the Hard Way":"http://learnrubythehardway.org/book/"
+    },  {
+        "RubyMonk":"https://rubymonk.com/"
     }]
 }, {
     "category": "C++",
@@ -37,6 +51,8 @@
     "about": "c++ is a native language",
     "materials": [{
         "cplusplus": "http://www.cplusplus.com/doc/tutorial/"
+     }, {
+       "LearnCpp": "http://www.learncpp.com/"
     }]
 }, {
     "category": "Objective-C",
@@ -50,6 +66,8 @@
     "about": "Objective-C is an ios language",
     "materials": [{
         "tryObjectiveC": "http://tryobjectivec.codeschool.com/"
+    },  {
+        "Ry’s Objective-C Tutorial": "http://rypress.com/"
     }]
 }, {
     "category": "PHP",
@@ -63,11 +81,15 @@
     "about": "php is a server side language",
     "materials": [{
         "Learn Php": "http://www.learn-php.org/"
+    }, {
+        "PHP: The Right Way":"http://www.phptherightway.com/"
     }]
 }, {
     "category": "Ionic",
     "IDE": [{
         "SublimeText3": "http://www.sublimetext.com/3"
+    }, {
+        "Creator":"https://creator.ionic.io/"
     }],
     "about": "Ionic is a hybrid mobile app language",
     "materials": [{
